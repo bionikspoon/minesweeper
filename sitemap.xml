@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bionikspoon.github.io/minesweeper//</loc>
+    <loc>https://bionikspoon.github.io/minesweeper//minesweeper/</loc>
   </url>
   <url>
-    <loc>https://bionikspoon.github.io/minesweeper//error</loc>
+    <loc>https://bionikspoon.github.io/minesweeper//minesweeper/error</loc>
   </url>
   <url>
-    <loc>https://bionikspoon.github.io/minesweeper//about</loc>
+    <loc>https://bionikspoon.github.io/minesweeper//minesweeper/about</loc>
   </url>
 </urlset>
